@@ -1,5 +1,7 @@
 # IoT
-Repositório do curso de Iot + código do circuito
+Repositório do curso de Iot + link do tikercad + código do circuito
+
+Link:https://www.tinkercad.com/things/dkFyq5Vs1p1
 
 // Sensor PIR
 
